@@ -1,0 +1,1 @@
+ninja OsmMapData_test
