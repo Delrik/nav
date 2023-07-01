@@ -1,1 +1,1 @@
-cmake .. -G'CodeBlocks - Ninja'
+cmake .. -G'CodeBlocks - Ninja' -DCMAKE_BUILD_TYPE=Debug
