@@ -4,3 +4,15 @@
 [submodule "external/googletest"]
 	path = external/googletest
 	url = https://github.com/google/googletest
+[submodule "external/boost/static_assert"]
+	path = external/boost/static_assert
+[submodule "external/boost/mp11"]
+	path = external/boost/mp11
+[submodule "external/boost/type_traits"]
+	path = external/boost/type_traits
+[submodule "external/boost/describe"]
+	path = external/boost/describe
+[submodule "external/boost/config"]
+	path = external/boost/config
+[submodule "external/boost/container_hash"]
+	path = external/boost/container_hash

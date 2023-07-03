@@ -1,0 +1,6 @@
+add_subdirectory(config)
+add_subdirectory(static_assert)
+add_subdirectory(mp11)
+add_subdirectory(type_traits)
+add_subdirectory(describe)
+add_subdirectory(container_hash)
